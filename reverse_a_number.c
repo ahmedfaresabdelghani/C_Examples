@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*reverse number code*/
 int main()
 {
     int number,reverse=0;
