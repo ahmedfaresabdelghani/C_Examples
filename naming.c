@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(void)
 {
-	int _=5;
-	printf("%d",_);
+	char* _="A\045\046";
+	printf("%sAAAA",_);
 	
 }
